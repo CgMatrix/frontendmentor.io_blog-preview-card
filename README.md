@@ -52,10 +52,9 @@ This exercise helped me to recap the use of:
 - Media queries - @media
 - Pseudo code - :hover & :focus
  
-It also helped me to build further skills for building a responsive web page by starting with mobile first, instead of desktop.
+This code practise also helped me to build further skills for building a responsive web page by starting with mobile first, instead of desktop.
 
-To see how you can add code snippets, see below:
-Example of code snippest I've done research on through MDN:
+Example of code snippest after research on MDN:
 ```html
 <footer class="attribution">
         <p>
