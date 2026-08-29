@@ -38,72 +38,83 @@ Users should be able to:
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
-### What I learned
+### What I learned:
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This exercise helped me to recap the use of:
+- CSS flexbox
+- Media queries - @media
+- Pseudo code - :hover & :focus
+ 
+It also helped me to build further skills for building a responsive web page by starting with mobile first, instead of desktop.
 
 To see how you can add code snippets, see below:
-
+Example of code snippest I've done research on through MDN:
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<footer class="attribution">
+        <p>
+          Challenge by
+          <a class="button" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+        </p>
+        <p>
+          Coded by
+          <a class="button" href="https://www.frontendmentor.io/profile/CgMatrix">CgMatrix</a>.
+        </p>
+      </footer>
 ```
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.attribution {
+  color: hsl(0, 0%, 7%);
+  font-size: 0.68rem;
+  font-weight: 500;
+}
+
+.button {
+  font-size: 0.7rem;
+  font-weight: 800;
+  color: inherit;
+  text-decoration: none;
+}
+
+.button:hover {
+  color: hsl(0, 0%, 100%);
+}
+.button:focus {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(47, 88%, 63%);
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
+### Continued development:
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Based on extending skills for future projects, I'm planning to focus more on the following:
+- SaaS
+- GSAP
+- Three.js
 
-### Useful resources
+### Useful resources:
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - This always helped me to regain knowledge of stuff I've forgotten.
+- [CSS Tricks](https://css-tricks.com/) - This is an amazing webiste that contains powerfull spreadsheets. 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+### Experience:
 
-### AI Collaboration
-
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+When building responsive websites, I always first optimise the raw code of the layout I've started with (desktop or mobile) as much as possible before starting with media queries to setup the next layout for a different screen size.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Github - [CgMatrix](https://github.com/CgMatrix)
+- Frontend Mentor - [@CgMatrix](https://www.frontendmentor.io/profile/CgMatrix)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Big thanks to Frontend Mentor for providing the challenge & design with resources to improve & develop more skills.
