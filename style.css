@@ -75,7 +75,7 @@ h1:hover {
   color: hsl(47, 88%, 63%); /*Yellow*/
 }
 
-h5 {
+span {
   font-size: 0.62rem;
   font-weight: 800;
   border: 0.1rem solid hsl(47, 88%, 63%); /*Yellow*/
@@ -185,7 +185,7 @@ footer {
     font-size: 1.5rem;
     font-weight: 800;
   }
-  h5 {
+  span {
     font-size: 0.8rem;
   }
   .publish_date {
