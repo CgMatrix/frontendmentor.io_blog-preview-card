@@ -34,7 +34,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [cgmatrix.github.io/frontendmentor.io_blog-preview-card](https://github.com/CgMatrix/frontendmentor.io_blog-preview-card/blob/main/index.html)
 - Live Site URL: [cgmatrix.github.io/frontendmentor.io_blog-preview-card](https://cgmatrix.github.io/frontendmentor.io_blog-preview-card/)
 
 ## My process
