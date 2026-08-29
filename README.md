@@ -57,15 +57,13 @@ This code practise also helped me to build further skills for building a respons
 Example of code snippest after research on MDN:
 ```html
 <footer class="attribution">
-        <p>
-          Challenge by
-          <a class="button" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
-        </p>
-        <p>
-          Coded by
-          <a class="button" href="https://www.frontendmentor.io/profile/CgMatrix">CgMatrix</a>.
-        </p>
-      </footer>
+  <p>
+    Challenge by <a class="button" href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+  </p>
+  <p>
+    Coded by <a class="button" href="https://www.frontendmentor.io/profile/CgMatrix">CgMatrix</a>.
+  </p>
+</footer>
 ```
 
 ```css
