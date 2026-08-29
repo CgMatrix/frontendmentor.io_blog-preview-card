@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/CgMatrix/frontendmentor.io_blog-preview-card/blob/main/index.html)
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://cgmatrix.github.io/frontendmentor.io_blog-preview-card/)
 
 ## My process
