@@ -132,7 +132,7 @@ footer {
   text-decoration: none;
 }
 .link_button:focus{
- color:hsl(0, 0%, 100%);
+ color: hsl(47, 88%, 63%); /*Yellow*/
 }
 /*POSITIONING:*/
 .window {
